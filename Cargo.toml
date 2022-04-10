@@ -1,8 +1,15 @@
 [package]
 name = "libfar"
+description = "Library for interacting with FAR archives"
 version = "0.1.0"
 edition = "2021"
 authors = ["husky (fekhesk)"]
+homepage = "https://gitlab.com/realmicrosoft/libfar-rs"
+repository = "https://gitlab.com/realmicrosoft/libfar-rs"
+license = "MIT"
+readme = "README.md"
+keywords = ["far", "archive", "library", "EA"]
+categories = ["encoding", "filesystem", "game development", "parsing tools"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
