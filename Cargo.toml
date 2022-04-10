@@ -1,7 +1,7 @@
 [package]
 name = "libfar"
 description = "Library for interacting with FAR archives"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["husky (fekhesk)"]
 homepage = "https://gitlab.com/realmicrosoft/libfar-rs"
